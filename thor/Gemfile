@@ -23,6 +23,7 @@ gem 'rake'
 # Padrino Stable Gem
 gem 'padrino', '0.13.1'
 
+gem 'nobrainer'
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
 

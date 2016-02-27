@@ -1,1 +1,1 @@
-## Thor is a scalable platform for teams
+## Thor is an open dataset sharing platform for community collaboration
