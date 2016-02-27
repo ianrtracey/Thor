@@ -1,1 +1,1 @@
-# Thor is an experimental project for building a scalable team platform
+## Thor is an experimental project for building a scalable team platform
